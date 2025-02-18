@@ -1,4 +1,5 @@
 # Virtual environment (Python)
+env
 venv/
 env/
 *.pyc
